@@ -10,4 +10,4 @@ def model3():
     print("Model 3")
 
 
-print("Model 2 is performing best")
+print("Model 3 is performing best")
